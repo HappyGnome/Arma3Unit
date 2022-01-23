@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="Wingman">
+	<name>Wingman Association</name>
+	<email>N/A</email>
+	<web>N/A</web>
+	<picture>Wingman_Assoc_smoothed_square.paa</picture>
+	<title>Wingman Association</title>
+	
+	<member id="76561198046757332" nick="=[TAG]= Benom8">
+		<name>Benom8</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>N/A</remark>
+	</member>
+</squad>
