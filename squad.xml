@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
-<squad nick="Wingman2">
+<squad nick="Wingman">
 	<name>Wingman Association</name>
 	<email>N/A</email>
 	<web>N/A</web>
